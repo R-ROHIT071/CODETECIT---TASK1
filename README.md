@@ -31,6 +31,9 @@ Copied the public URL and opened it in the browser
     Browser (for public link preview)
 
 
+    ![Image](https://github.com/user-attachments/assets/9c75648d-596f-4e25-a2d0-c32ad2102bb7)
+
+
   Result
     Successfully created cloud storage
     Uploaded and accessed file via browser
